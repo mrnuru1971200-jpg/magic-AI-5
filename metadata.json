@@ -1,0 +1,6 @@
+{
+  "name": "Magic AI",
+  "description": "A modern, professional AI-powered mobile app with intelligent chat, high-quality image generation, and prompt-driven image editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
